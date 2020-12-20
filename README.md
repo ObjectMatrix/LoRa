@@ -10,7 +10,7 @@ https://www.semtech.com/lora/what-is-lora
 ![LoRa Chips](img/lora.png "LoRa")
 
 
-# Distance. 
+# Distance testing in residential areas (across woods and lake)
 Between two adjacent cities (no cellutar, no wifi, just Chirp Modulation)
 
 ![distance](img/lora-distance.png "distance")
