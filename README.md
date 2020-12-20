@@ -25,6 +25,7 @@ The LoRa gateways connect to the internet via the standard IP protocol and trans
 
 
 # LoRa Application
-![LoRa Application](https://www.semtech.com/lora/lora-applications/smart-agriculture)
+- https://www.semtech.com/lora/lora-applications/smart-agriculture  
+- https://www.semtech.com/company/press/semtech-and-lar.tech-enable-smart-ranching-with-lora-technology
 
 
