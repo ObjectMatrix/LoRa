@@ -6,7 +6,7 @@ Learn More:
 https://www.semtech.com/lora/what-is-lora
 
 
-# Experimenting with LoRa protocol
+# Tinker with LoRa - a low bandwidth network that reaches long distances with little power
 ![LoRa Chips](img/lora.png "LoRa")
 
 
