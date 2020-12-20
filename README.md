@@ -6,11 +6,11 @@ Learn More:
 https://www.semtech.com/lora/what-is-lora
 
 
-# Tinker with LoRa - a low bandwidth network that reaches long distances (30 miles or less in rural area) with little power
+# Tinker with LoRa - a low bandwidth network that reaches long distances (30 miles or less in rural areas) with little power
 ![LoRa Chips](img/lora.png "LoRa")
 
 
-# Distance testing in residential areas (across woods and lake)
+# Distance testing in residential areas (across houses, woods, wetland and lake)
 Between two adjacent cities (no cellutar, no wifi, just Chirp Modulation)
 
 ![distance](img/lora-distance.png "distance")
