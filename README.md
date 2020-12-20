@@ -13,7 +13,7 @@ Between two adjacent cities (no cellutar, no wifi, just Chirp Modulation)
 
 ![distance](img/lora-distance.png "distance")
 
-##. Understanding of Chirp Modulation
+## Understanding of Chirp Modulation
  - https://www.nature.com/articles/s41467-018-04822-4
  - https://en.wikipedia.org/wiki/Chirp_spread_spectrum
  
