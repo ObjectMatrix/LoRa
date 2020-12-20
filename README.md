@@ -4,3 +4,11 @@ Learn More:
 https://www.semtech.com/lora/what-is-lora
 
 
+# Experimenting with LoRa devices
+
+
+
+# distance. 
+
+# LoRa Gateways
+
