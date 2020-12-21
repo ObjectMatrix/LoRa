@@ -1,7 +1,7 @@
 ## LoRa: Symbol Generation. 
 
 Two important concept for LoRa PHY
-+ **SYMBOL:** SYMBOL is RF state representing representing some quantity of information. 
++ **SYMBOL:** SYMBOL is RF state representing some quantity of information. 
 + **LoRa Spreading Factor (SF):** Number of bits encoded into each sysmbol. 
 
 LoRa is a chirp spread spectrum (CSS) modulation based wireless networking standard
