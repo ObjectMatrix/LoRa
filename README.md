@@ -1,6 +1,6 @@
 # LoRa  
-<img alt="modulation-image" src="img/modulation.png" width="1024px" height="200px" />
-Important concept on LoRa PHY [LoRa PHY](https://github.com/ObjectMatrix/LoRa/blob/main/lora-docs.md "").
+<img alt="modulation-image" src="img/modulation.png" width="1024px" height="300px" />
+
 
 LoRa is a wireless technology that offers long range, low power and secure data transmission for IoT applications. LoRa can be used to connect sensors, gateways, machines, devices, animals, people etc. wirelessly to the cloud.  
 Learn More:
