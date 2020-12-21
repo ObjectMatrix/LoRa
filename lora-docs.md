@@ -11,6 +11,8 @@ Chirp stands for **Compressed High Intensity Radar Pulse.** It is a signal which
 
 LoRa PHY (Physical Layer) includes 8 preamble symbols, 2 synchronisation symbols, physical payload and optional CRC.
 
+LoRa uses three different bandwidth: 125kHz, 250kHz and 500kHz; LoRa symbols are modulated over a up-chirp of 125kHz bandwidth and different orthogonal (almost) spreading factors are used based on data rate requirement and channel conditions. LoRa uses SF7 to SF12 spreading factors.
+
 ![Tux, the Linux mascot](/img/chirp-spread-spectr.png)
 
  + SF8 takes exact twice the time of SF7 and SF9 takes exact twice time of SF8.  
