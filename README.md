@@ -1,7 +1,7 @@
 # LoRa 
 ![modulation](img/modulation.png "modulation")   
 
-**![LoRa PHY](lora-docs.md)**
+**![LoRa PHY](https://github.com/ObjectMatrix/LoRa/blob/main/lora-docs.md "LoRa PHY")**
 
 LoRa is a wireless technology that offers long range, low power and secure data transmission for IoT applications. LoRa can be used to connect sensors, gateways, machines, devices, animals, people etc. wirelessly to the cloud.  
 Learn More:
