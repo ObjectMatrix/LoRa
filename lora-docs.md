@@ -9,4 +9,12 @@ Chirp stands for **Compressed High Intensity Radar Pulse.** It is a signal which
 
 ## LoRa Chirp Spread Spectrum Modulation. 
 
+LoRa PHY (Physical Layer) includes 8 preamble symbols, 2 synchronisation symbols, physical payload and optional CRC.
+
 ![Tux, the Linux mascot](/img/chirp-spread-spectr.png)
+
+ + SF8 takes exact twice the time of SF7 and SF9 takes exact twice time of SF8.  
+ + Symbol Rate(Rs), Bandwidth(BW) and Spreading Factor(SF) relation:  
+    Rs = BW / (2<sup>SF</sup>)  
+ + Higher the Spreading Factor -> Higher the over-the-air time.
+ + Lower the Spreading Factor ->  Higher the Data Rate. 
