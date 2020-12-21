@@ -1,6 +1,5 @@
-# LoRa 
-![modulation](img/modulation.png "modulation")   
-
+# LoRa  
+<img alt="modulation-image" src="img/modulation.png" height="200px" />
 Important concept on LoRa PHY [LoRa PHY](https://github.com/ObjectMatrix/LoRa/blob/main/lora-docs.md "").
 
 LoRa is a wireless technology that offers long range, low power and secure data transmission for IoT applications. LoRa can be used to connect sensors, gateways, machines, devices, animals, people etc. wirelessly to the cloud.  
@@ -29,7 +28,9 @@ The LoRa gateways connect to the internet via the standard IP protocol and trans
 
 
 # LoRa Application
+- https://github.com/ObjectMatrix/LoRa/blob/main/lora-docs.md 
 - https://www.semtech.com/lora/lora-applications/smart-agriculture  
 - https://www.semtech.com/company/press/semtech-and-lar.tech-enable-smart-ranching-with-lora-technology
+
 
 
