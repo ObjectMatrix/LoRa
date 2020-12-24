@@ -28,7 +28,7 @@ The LoRa gateways connect to the internet via the standard IP protocol and trans
 
 <hr />
 
-# Capturing LoRa Communication in my SDR nooelect Radio at 915Mhz
+# Capturing LoRa Communication in my SDR nooelect Radio at 915Mhz (CubicSDR)
 ![nooelect](img/radar1.png "Radio")
 
 - https://www.nooelec.com/store/
