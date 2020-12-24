@@ -28,8 +28,12 @@ char *haiku[] = {
 // unsigned int haikusize = sizeof(haiku);
 void setup()
 {
-   //WIFI Kit series V1 not support Vext control
-  Heltec.begin(true /*DisplayEnable Enable*/, true /*Heltec.Heltec.Heltec.LoRa Disable*/, true /*Serial Enable*/, true /*PABOOST Enable*/, BAND /*long BAND*/);
+  Heltec.begin(true /*DisplayEnable Enable*/, 
+               true /*Heltec.Heltec.Heltec.LoRa Disable*/, 
+               true /*Serial Enable*/, 
+               true /*PABOOST Enable*/, 
+               BAND /*long BAND*/
+              );
  
   Heltec.display->init();
   Heltec.display->flipScreenVertically();  
@@ -63,10 +67,8 @@ void loop()
  *   - RF_PACONFIG_PASELECT_PABOOST -- LoRa single output via PABOOST, maximum output 20dBm
  *   - RF_PACONFIG_PASELECT_RFO     -- LoRa single output via RFO_HF / RFO_LF, maximum output 14dBm
  */
-  LoRa.setTxPower(20,RF_PACONFIG_PASELECT_PABOOST);
+  LoRa.setTxPower(20, RF_PACONFIG_PASELECT_PABOOST);
   LoRa.print(haiku[counter/11]);
-  //  LoRa.print("Counter:");
-  //  LoRa.print(counter);
   LoRa.endPacket();
 
   counter++;
