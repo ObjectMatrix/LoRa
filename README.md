@@ -34,8 +34,8 @@ The LoRa gateways connect to the internet via the standard IP protocol and trans
 ![Gateway](img/gw.png "Gateway")
 
 <hr />
-# Tools: AWS IoT for LoRaWAN
-![aws_kits](img/aws_kits.png "LoRaWAN")
+# Tools: AWS IoT for LoRaWAN. 
+![aws_kits](img/aws_kits.png "aws_kits")
 
 
 <hr />
