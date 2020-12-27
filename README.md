@@ -22,15 +22,21 @@ Between two adjacent cities (no cellutar, no wifi, just Chirp Modulation)
 
 ![distance](img/lora-distance.png "distance")
 
+<hr />
 ## Understanding of Chirp Modulation
  - https://www.nature.com/articles/s41467-018-04822-4
  - https://en.wikipedia.org/wiki/Chirp_spread_spectrum
- 
+ <hr />
 # LoRa Gateways
 The LoRa sensors (IoT devices) transmit data to the LoRa gateways. 
 The LoRa gateways connect to the internet via the standard IP protocol and transmit the data received from the LoRa embedded sensors to the Internet i.e. a network, server or cloud. <b>The Gateways connect to the network server via standard IP connections and act as a transparent bridge, simply converting RF packets to IP packets and vice versa.</b>
 
 ![Gateway](img/gw.png "Gateway")
+
+<hr />
+# Tools: AWS IoT for LoRaWAN
+![aws_kits](img/aws_kits.png "LoRaWAN")
+
 
 <hr />
 
