@@ -56,3 +56,7 @@ The LoRa gateways connect to the internet via the standard IP protocol and trans
 
 ![farmers](img/usecase.png "farmers")
 
+## Webinar. 
+Dec 21, 2020
+
+https://gateway.on24.com/wcc/eh/2820560/lp/2822106/
