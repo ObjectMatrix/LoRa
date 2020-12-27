@@ -15,6 +15,8 @@ https://www.semtech.com/lora/what-is-lora
 # Lora Range Compare to WiFi, BT, Cellular (Range vs Data Rate)   
 ![lora_range](img/lora_range.png "lora_range")
 
+** LPWAN: A low-power wide-area network **
+
 # Distance testing in residential areas (across houses, woods, wetland and lake)
 Between two adjacent cities (no cellutar, no wifi, just Chirp Modulation)
 
