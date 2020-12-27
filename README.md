@@ -11,8 +11,9 @@ https://www.semtech.com/lora/what-is-lora
 ![LoRa Chips](img/lora.png "LoRa")
 
 <hr />
-# Lora Range Compare to WiFi, BT, Cellular. 
-![range](img/lora_range.png "range")
+
+# Lora Range Compare to WiFi, BT, Cellular (Range vs Data Rate)   
+![lora_range](img/lora_range.png "lora_range")
 
 # Distance testing in residential areas (across houses, woods, wetland and lake)
 Between two adjacent cities (no cellutar, no wifi, just Chirp Modulation)
