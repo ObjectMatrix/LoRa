@@ -35,13 +35,6 @@ The LoRa gateways connect to the internet via the standard IP protocol and trans
 
 <hr />
 
-# Tools: AWS IoT for LoRaWAN 
-
-![aws_kits](img/aws_kits.png "aws_kits")
-
-
-<hr />
-
 # Capturing LoRa Communication in my SDR nooelect Radio at 915Mhz (CubicSDR)
 ![nooelect](img/radar1.png "Radio")
 
